@@ -1,0 +1,8 @@
+Orders placed between 11 and 15
+
+Order{idClient=4, idOrder=2, data=Tue May 10 13:00:00 EEST 2022, price=12.0}
+[title='Produs2', rating=12.0, calories=12, protein=12, fat=12, sodium=12, price=12.0, times ordered=1]
+
+Order{idClient=2, idOrder=1, data=Tue May 10 13:00:00 EEST 2022, price=1.0}
+[title='Produs1', rating=1.0, calories=1, protein=1, fat=1, sodium=1, price=1.0, times ordered=1]
+

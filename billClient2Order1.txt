@@ -1,0 +1,6 @@
+ORDER 1
+Client 2
+Client username: Client1
+Date: Tue May 10 13:00:00 EEST 2022
+Products: [title='Produs1', rating=1.0, calories=1, protein=1, fat=1, sodium=1, price=1.0, times ordered=1]
+Price: 1.0
